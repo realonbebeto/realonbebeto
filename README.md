@@ -7,10 +7,10 @@ I am global Machine Learning Engineer from Kenya 🇰🇪. I am interested in an
 
 ## 📬 Get in touch
 
-- LinkedIn: [linkedin.com/in/realonbebeto]
-- Twitter: [twitter.com/realonbebeto]
-- Kaggle: [kaggle.com/realonbebeto]
+- [LinkedIn](linkedin.com/in/realonbebeto)
+- [Twitter](twitter.com/realonbebeto)
+- [Kaggle](kaggle.com/realonbebeto)
 
-👉🏻👉🏻📧 Hit me up at [nberbetto@gmail.com].
+👉🏻👉🏻📧 Hit me up at [Email](mailto:nberbetto@gmail.com)
 
 
