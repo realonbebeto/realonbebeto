@@ -8,9 +8,6 @@ I am global Machine Learning Engineer from Kenya 🇰🇪. I am interested in an
   <a href="https://twitter.com/realonbebeto">
     <img src="https://img.shields.io/twitter/follow/realonbebeto?realonbebeto?style=for-the-badge&logo=twitter" alt="twitter" />
   </a>
-  <a href="https://github.com/realonbebeto/realonbebeto">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=realonbebeto.realonbebeto" alt="page views" />
-  </a>
   <a href="https://linkedin.com/in/realonbebeto">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
