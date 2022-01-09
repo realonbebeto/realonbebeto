@@ -1,8 +1,7 @@
 ![realonbebeto](https://drive.google.com/uc?export=view&id=1mOW0V7Bf_K8JJ58QKasjr0CM8uW3pnK6)
 
 Hey 👋🏻,
-
-I am global Machine Learning Engineer from Kenya 🇰🇪. I am interested in and develop in Python machine learning frameworks like Scikit learn, tensorflow-keras.
+I am a zealous Machine Learning Engineer/Data Scientist 🚀 specialising in Python for AI, Data Science and Backend and Node for Backend. I am passionate about building ML apps using the Python AI library and Node Backend ecosystems.
 
 <p align="center">
   <a href="https://twitter.com/realonbebeto">
