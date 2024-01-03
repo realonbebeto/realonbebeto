@@ -2,7 +2,7 @@
 ## I'm [Bebeto Nyamwamu](https://realonbebeto.github.io/) 
 ### Glad we met albeit virtually 😁
 
-I am Machine Learning Engineer/Data Scientist 🧑🏿‍💻 experienced and specialising in building and deploying ML apps. I am agile in using the Python AI & Data Science library ecosystem for most part and MLOps.
+I am Fullstack ML/Data Engineer 🧑🏿‍💻 experienced and specialising in building and deploying ML apps. I am agile in using the Python AI & Data Science library ecosystem for MLOps/DataOps.
 
 You can also check me out on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/realonbebeto/)
 
