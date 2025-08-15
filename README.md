@@ -2,7 +2,9 @@
 ## I'm [Bebeto Nyamwamu](https://realonbebeto.github.io/) 
 ### Glad we met albeit virtually 😁
 
-I am Fullstack ML/Data Engineer 🧑🏿‍💻 experienced and specialising in building and deploying ML apps. I am agile in using the Python AI & Data Science library ecosystem for MLOps/DataOps.
+A Software/Data Platform Engineer with experience building predictive systems, RESTful backend APIs, and scalable data pipelines in production.
+Proven track record in customer experience healthcare, fintech, and geospatial analytics. Skilled in Python, SQL, FastAPI, Docker, GCP, and
+AWS.
 
 You can also check me out on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/realonbebeto/)
 
