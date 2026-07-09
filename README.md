@@ -29,7 +29,7 @@ Coming Soon
 
 <h2> About Me</h2>
 
-- 🌱 I’m currently learning Rust for Distributed Systems.
+- 🌱 I’m actively contributing and building in Rust.
 
 - 👯 I’m looking to collaborate on Open source projects.
 
