@@ -1,8 +1,7 @@
 ### Hello there, 👊🏿👊🏿  
-## I'm [Bebeto Nyamwamu](https://realonbebeto.github.io/) 
-### Glad we met, albeit virtually 😁
+## I'm [Bebeto Nyamwamu](https://realonbebeto.github.io/) 😁
 
-Software & Data Platform Engineer with a strong focus on Rust, building high-performance backend systems, data infrastructure, and distributed services. Experienced in designing production-grade APIs, streaming pipelines, data platforms, and developer tooling, with a background spanning machine learning, geospatial systems, and predictive analytics. 
+A Software & Data Platform Engineer with a strong focus on Rust, building high-performance backend systems, data infrastructure, and distributed services. Experienced in designing production-grade APIs, streaming pipelines, data platforms, and developer tooling, with a background spanning machine learning, geospatial systems, and predictive analytics. 
 
 Proven track record delivering scalable solutions across fintech, healthcare, customer experience, and geospatial analytics. Skilled in Rust, Python, SQL, PostgreSQL, Apache Arrow, FastAPI, Docker, AWS, and GCP, with a passion for open-source software, systems programming, and reliable data infrastructure.
 
