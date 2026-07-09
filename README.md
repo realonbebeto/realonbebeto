@@ -2,8 +2,9 @@
 ## I'm [Bebeto Nyamwamu](https://realonbebeto.github.io/) 
 ### Glad we met, albeit virtually 😁
 
-A Geospatial Engineer turned ML Engineer turned Software/Data Platform Engineer. Experienced in building predictive systems, RESTful backend APIs, and scalable data pipelines in production.
-Proven track record in customer experience, healthcare, fintech, and geospatial analytics. Skilled in Python, Rust, SQL, FastAPI, Docker, GCP, and AWS.
+Software & Data Platform Engineer with a strong focus on Rust, building high-performance backend systems, data infrastructure, and distributed services. Experienced in designing production-grade APIs, streaming pipelines, data platforms, and developer tooling, with a background spanning machine learning, geospatial systems, and predictive analytics. 
+
+Proven track record delivering scalable solutions across fintech, healthcare, customer experience, and geospatial analytics. Skilled in Rust, Python, SQL, PostgreSQL, Apache Arrow, FastAPI, Docker, AWS, and GCP, with a passion for open-source software, systems programming, and reliable data infrastructure.
 
 You can also check me out on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/realonbebeto/)
 
