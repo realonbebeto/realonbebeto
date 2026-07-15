@@ -28,7 +28,7 @@ Currently big on Rust by actively contributing and building in Rust 🦀.
 `Actix-Web` `FastAPI` `Test-Driven Development` `WebSocket` `REST APIs` `OpenAPI`
 
 **Data**
-`ETL Pipelines` `Data Warehousing` `Data Modelling` `Data Orchestration` `Big Data` `Prefect` `Airflow` `MLFlow` `Pandas` `Polars` `DVC` `Arrow` ``
+`ETL Pipelines` `Data Warehousing` `Data Modelling` `Data Orchestration` `Big Data` `Prefect` `Airflow` `MLFlow` `Pandas` `Polars` `DVC` `Arrow`
 
 **Databases**
 `SQL - PostgreSQL` `BigQuery` `DuckDB` `ElasticSearch` `MeiliSearch` `Redis` `Qdrant` `LanceDB` `SurrealDB`
