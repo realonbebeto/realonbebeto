@@ -1,38 +1,44 @@
-### Hello there, 👊🏿👊🏿  
-## I'm [Bebeto Nyamwamu](https://realonbebeto.github.io/) 😁
+<div align="center">
 
-A Software & Data Platform Engineer with a strong focus on Rust, building high-performance backend systems, data infrastructure, and distributed services. Experienced in designing production-grade APIs, streaming pipelines, data platforms, and developer tooling, with a background spanning machine learning, geospatial systems, and predictive analytics. 
+# Bebeto Nyamwamu
+
+### Software Engineer · Rust 🦀 · Python
+
+[![Twitter](https://img.shields.io/badge/@realonbebeto-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/realonbebeto)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/realonbebeto)
+[![Email](https://img.shields.io/badge/nberbetto@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:nberbetto@gmail.com)
+
+</div>
+
+---
+
+##  👤 About Me
+
+A Software & Data Platform Engineer with a strong focus on Rust 🦀, building high-performance backend systems, data infrastructure, and distributed services. Experienced in designing production-grade APIs, streaming pipelines, data platforms, and developer tooling, with a background spanning machine learning, geospatial systems, and predictive analytics. 
 
 Proven track record delivering scalable solutions across fintech, healthcare, customer experience, and geospatial analytics. Skilled in Rust, Python, SQL, PostgreSQL, Apache Arrow, FastAPI, Docker, AWS, and GCP, with a passion for open-source software, systems programming, and reliable data infrastructure.
 
-You can also check me out on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/realonbebeto/)
+Currently big on Rust by actively contributing and building in Rust 🦀.
 
-<p align="center">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id}" alt="visitors" />
-  <a href="https://twitter.com/realonbebeto">
-    <img src="https://img.shields.io/twitter/follow/realonbebeto?realonbebeto?style=for-the-badge&logo=twitter" alt="twitter" />
-  </a>
-</p>
+---
 
-## ⚡ Check out My Stack and Tools 🏋🏿🏋🏿
-Coming Soon
+## ⚡ Tech Stack
 
-## My GitHub Stats 📊
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=realonbebeto&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realonbebeto" />
-</a>
+**Backend**
+`Actix-Web` `FastAPI` `Test-Driven Development` `WebSocket` `REST APIs` `OpenAPI`
 
-<br>
+**Data**
+`ETL Pipelines` `Data Warehousing` `Data Modelling` `Data Orchestration` `Big Data` `Prefect` `Airflow` `MLFlow` `Pandas` `Polars` `DVC` `Arrow` ``
 
-<h2> About Me</h2>
+**Databases**
+`SQL - PostgreSQL` `BigQuery` `DuckDB` `ElasticSearch` `MeiliSearch` `Redis` `Qdrant` `LanceDB` `SurrealDB`
 
-- 🌱 I’m actively contributing and building in Rust.
+**Infra & Tools**
+`Docker` `AWS - EC2, S3, Cloudwatch, RDS, Lambda, ElastiCache` `GCP - Compute` `Nginx` `CI/CD - Github Actions, Bitbucket Pipelines` `Bash` `Linux` `Git`
 
-- 👯 I’m looking to collaborate on Open source projects.
+---
 
-👉🏻👉🏻📧 Hit me up at [Email](mailto:nberbetto@gmail.com)
+## Notable Projects
 
-
+### [Nisaba](https://github.com/realonbebeto/nisaba) — Data quality, reconciliation, and validation across different data stores
+> *Rust · Arrow · LanceDB · SQL · NoSQL · File(csv, parquet)
